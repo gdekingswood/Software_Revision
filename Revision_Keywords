@@ -15,36 +15,36 @@ Compiler - transforms code into another computer language.
 Interpreter - a program that can intpret and execute a program.
 Linker - provides links between the complier and libraries needed to exectue a problem.
 Debugger - helps ypou to find errors in a programing code
-Operating Systen - 
-Self Booting
-Web Server
-Platform
-Kernel
-Process
-Interface
-Security
-Multi Tasking
-Command Line
+Operating Systen - software that manages a computers hardware as well as providing a user interface
+Self Booting - 
+Web Server - 
+Platform - 
+Kernel - 
+Process - 
+Interface - the way that the user interacts with the computer
+Security - 
+Multi Tasking - Doing several tasks at the same time with different software
+Command Line - 
 GUI - graphical User Interface
-Voice Input
-Examplers of Operating Systems
+Voice Input - 
+Examplers of Operating Systems - IOS, Android, OS X, Linux, Google Chrome OS
 Peripheral - anything outside of the CPU
-Driver
-Firmware
-Embedded System
-Client
-Utility Software
-Security Utilities
-Spyware
-Trojan
-Worm
-Firewall
-Degragmenter
-Editor
+Driver - 
+Firmware - 
+Embedded System - 
+Client - 
+Utility Software - software that helps the computer to analyze,configure,optimize and maintain
+Security Utilities - keep the file and data in the computer safe
+Spyware - technology that able to gather information about a person or organisation without their knowledge
+Trojan - a file designed to pass of as another to bypass firewalls and antivirus
+Worm - standalone malware that allow computer to replicates itself in order to spread to other computers
+Firewall - it protects information of a private computer from other network
+Degragmenter - process that allow the reduce of fragmentation
+Editor - 
 Pretty Printer - changes the codes colour therefore making it more readable
-Assemblers
-Assembly Language
-Off the shelf software
-Custom written software
-Proprietary Software
-Open Source Software - a software where 
+Assemblers - program that enable computer to convect basic instrutions into bits and perform its operation
+Assembly Language - It is a low-level programming language
+Off the shelf software - Immediately available and sold commercially (can be downloaded and costs less)
+Custom written software - Software written for a specific customer to order (costs a lot more)
+Proprietary Software - it is a close source software which means that users are not allow to access the source code
+Open Source Software - a software where that can be edited by anyone
