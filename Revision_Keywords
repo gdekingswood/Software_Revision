@@ -1,34 +1,32 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
-Program
-Software
-Application
-Platform
-Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
-Compiler
-Interpreter
-Linker
-Debugger
-Operating Systen
-Self Booting
-Web Server
-Platform
-Kernel
-Process
-Interface
-Security
-Multi Tasking
-Command Line
-GUI
-Voice Input
-Examplers of Operating Systems
-Peripheral
+Instructions - Infomation of how something should be done.
+Program - A plan to solve a problem.
+Software - Programs and other infomation used by a computer.
+Application - A computer program made to do certain functions and tasks.
+Platform - A major piece of software on which other pieces of software are based on.
+Programming Language - A language understood by programs that is used by programers to make programs.
+Machine Code - The lowest level of computer code.
+Low-level language - The code and language understood by the very basic machines and hardware.
+High-level language - The language and code used by programs that is easier to input in less space.
+Software Engineering - When you are engineering software.
+Interface - The things that a user can interact with and see.
+Compiler - Converts high level language into low level language used by hardware.
+Interpreter - A program that can run a program line by line.
+Linker - Used with compiler to give links needed to to execute program.
+Debugger - A program used to remove bugs.
+Operating System - A low level structure that provides basic fubnstions and supports other applications.
+Self Booting - A thing that boots up without the need for a interface.
+Web Server - A server that host the web pages when requested.
+Kernel - The core and lowest level of operating system.
+Process - Actions done to achieve a goal.
+Security - Programs that trys to keep your data and privacy safe.
+Multi Tasking - When the CPU quickly switches inbetween working on different programs so there for lots of things done simultaneously.
+Command Line - A basic program that is used to input commands.
+GUI - A Graphics User Interface.
+Voice Input - When a user inputs via voice.
+Examples of Operating Systems - Linux, Windows, MacOS, IOS, Android.
+Peripheral - A piece of hardware that is not on CPU
 Driver
 Firmware
 Embedded System
