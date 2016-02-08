@@ -10,7 +10,7 @@ Machine Code - a computer language eg binary.
 Low-level language - one line of code relates to one level on the CPU
 High-level language - nearer to english 
 Software Engineering - studing of software and being able to program and edit code
-Interface - something that allows you to communticate with the computer.
+Interface - something that allows you to communticate with the computer, the way that the user interacts with the computer
 Compiler - transforms code into another computer language.
 Interpreter - a program that can intpret and execute a program.
 Linker - provides links between the complier and libraries needed to exectue a problem.
@@ -47,4 +47,4 @@ Assembly Language
 Off the shelf software
 Custom written software
 Proprietary Software
-Open Source Software
+Open Source Software - a software where 
