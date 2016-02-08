@@ -9,7 +9,7 @@ Programming Language
 Machine Code
 Low-level language - languages that the computer understands (assembly language, machine code)
 High-level language - designed to look like normal english (makes it easier for the user to use, but the CPU cannot run directly)
-Software Engineering
+Software Engineering - the study of engineering, design, development and maintenance of software
 Interface - the boundary between the computer and the user
 Compiler - translates programs into machine code that the computer can run
 Interpreter - translates source code line by line
