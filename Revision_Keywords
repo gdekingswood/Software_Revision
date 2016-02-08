@@ -2,33 +2,33 @@ Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
 Instructions
 Program
-Software
+Software Programmes and operating instructions used by a computer
 Application
 Platform
 Programming Language
-Machine Code
-Low-level language
-High-level language
+Machine Code-the lowest level of code understood by the cpu
+Low-level language-a set of instructions which has very similar archetecture to processing instructions, consitsting of binary
+High-level language- A programing language that is close to english (Phython)
 Software Engineering
 Interface
 Compiler
 Interpreter
 Linker
 Debugger
-Operating Systen
+Operating System - software that manages a computers hardware as well as providing a user interface
 Self Booting
 Web Server
 Platform
 Kernel
 Process
-Interface
+Interface- the means that the user can interact with the computer
 Security
-Multi Tasking
+Multi Tasking - Doing several tasks at the same time with different software
 Command Line
-GUI
+GUI - Graphical User Interface
 Voice Input
-Examplers of Operating Systems
-Peripheral
+Examples of Operating Systems - IOS, Android, OS X, Linux, Google Chrome OS
+Peripheral- Anything outside of the CPU
 Driver
 Firmware
 Embedded System
@@ -36,15 +36,15 @@ Client
 Utility Software
 Security Utilities
 Spyware
-Trojan
+Trojan-a file designed to pass of as another to bypass firewalls and antivirus 
 Worm
-Firewall
+Firewall -
 Degragmenter
 Editor
-Pretty Printer
+Pretty Printer- changes the colour of the code in python to make it easier to read
 Assemblers
 Assembly Language
-Off the shelf software
-Custom written software
+Off the shelf software - Immediately available and sold commercially (can be downloaded and costs less)
+Custom written software- Software written for a specific customer to order (costs a lot more)
 Proprietary Software
-Open Source Software
+Open Source Software- Software that can be edited by anyone
