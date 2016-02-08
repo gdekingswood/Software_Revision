@@ -1,15 +1,15 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions - Infomation of how something should be done.
+Instructions - an instruction is an order given to the computer processer by the computer system.
 Program - A plan to solve a problem.
-Software - Programs and other infomation used by a computer.
+Software - programs that are used by a computer system.
 Application - A computer program made to do certain functions and tasks.
 Platform - A major piece of software on which other pieces of software are based on.
 Programming Language - A language understood by programs that is used by programers to make programs.
-Machine Code - The lowest level of computer code.
+Machine Code - The lowest level of computer code, instructions in binary used by CPU.
 Low-level language - The code and language understood by the very basic machines and hardware.
 High-level language - The language and code used by programs that is easier to input in less space.
-Software Engineering - When you are engineering software.
+Software Engineering - the study of engineering, design, development and maintenance of software.
 Interface - The things that a user can interact with and see.
 Compiler - Converts high level language into low level language used by hardware.
 Interpreter - A program that can run a program line by line.
@@ -30,7 +30,7 @@ Peripheral - A piece of hardware that is not on CPU
 Driver
 Firmware
 Embedded System
-Client
+Client - a desktop computer that can get information and applications from a server
 Utility Software
 Security Utilities
 Spyware
@@ -39,7 +39,7 @@ Worm
 Firewall
 Degragmenter
 Editor
-Pretty Printer
+Pretty Printer - It colour codes different types of commands, not just instructions. For example, commands are purple, text is green, comments are red etc.
 Assemblers
 Assembly Language
 Off the shelf software
