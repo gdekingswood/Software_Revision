@@ -1,38 +1,36 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
-Program
-Software
-Application
-Platform
-Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
-Compiler
-Interpreter
-Linker
-Debugger
-Operating Systen
-Self Booting
-Web Server
-Platform
-Kernel
-Process
-Interface
-Security
-Multi Tasking
-Command Line
-GUI
-Voice Input
-Examplers of Operating Systems
-Peripheral
-Driver
-Firmware
-Embedded System
-Client
+Instructions - detailed information about how something should be done.
+Program - the sequence of instructions enabling a computer to solve a problem.
+Software - the programs used to operate the computer.
+Application - a computer program used to do a specific job.
+Platform - a major piece of software such as the operating system.
+Programming Language - the code used to write programs for a computer.
+Machine Code - the lowest level of code, in binary or hexadecimal.
+Low-level language - a long and complicated language such as binary.
+High-level language - easier and quicker way of writing code usually in plain english which is translated into binary.
+Software Engineering - designing or programming computer systems.
+Interface - software designed to communicate information, eg. WIMP user interface.
+Compiler - converts a high level language into another language, usualy machine language.
+Interpreter - translates high level code into machine code.
+Linker - a program used with a compiler to provide links to librarys. 
+Debugger - detects and removes errors from code.
+Operating System - collection of software which controlls the hardware of the computer. 
+Self Booting - boots up without the need for any user input. 
+Web Server - a remote computer which provides web pages for a client.
+Kernel - the lowest level of the operating system, it controlls the hardware of the computer.
+Process - to carry out operations on data/programs
+Security - keeping data secure by use of passwords and privalage restrictions.
+Multi Tasking - to execute more than one job at once. 
+Command Line - interacting with the operating system through code.
+GUI - Graphical User Interface
+Voice Input - Controlling a computer system by the use of your voice.
+Examples of Operating Systems - Mac OS X, Windows, iOS, Android, Linux, Ubuntu
+Peripheral - an device which operates outside the CPU
+Driver - software that controls peripherals
+Firmware - a microprogram stored in a ROM
+Embedded System - software which forms a component of a larger system and which works without human input
+Client - application which communicated with a remote server. 
 Utility Software
 Security Utilities
 Spyware
