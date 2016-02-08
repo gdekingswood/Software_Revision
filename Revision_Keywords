@@ -1,7 +1,7 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions - 
-Program
+Instructions - an instruction is a segment of code that contains steps that need to be executed by the computer processor.
+Program - 
 Software - Programmes and operating instructions used by a computer
 Application -
 Platform - 
@@ -13,7 +13,7 @@ Software Engineering - study of software
 Interface - 
 Compiler
 Interpreter
-Linker
+Linker - a program used with a compiler or assembler to provide links to the libraries needed for an executable program.
 Debugger
 Operating Systen
 Self Booting
