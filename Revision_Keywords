@@ -1,30 +1,28 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
-Program
-Software
-Application
-Platform
-Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
-Compiler
-Interpreter
-Linker
-Debugger
-Operating Systen
-Self Booting
-Web Server
-Platform
-Kernel
-Process
-Interface
-Security
-Multi Tasking
-Command Line
+Instructions - a detailed information on ahow about something should be done.
+Program - a software instruction for a planed operation of a computer.
+Software - an information used by a computer
+Application -  a computer program coded to do a certain funtions. 
+Platform - major coded for a piece of computer software to run within 
+Programming Language- a language understood by a program and used for coding.
+Machine Code - lowest level of code. 
+Low-level language - a programming uderstood by basic program and machines
+High-level language - a programming language understood by advanced machines.
+Software Engineering- a prfession of an engineer.
+Interface - hardware or software designed to commmunicate information betweeen device.
+Compiler - convert high level language to low level language.
+Interpreter - a program that converts one statement into high level language.
+Linker - an object linked by hyerlink
+Debugger - a program used to remove bugs and errors
+Operating System - a low level program that provide basic funtions. 
+Self Booting - a program that self boots without any support.
+Web Server - a program that deliver web pages to users computer.
+Kernel - a  lowest level of operating system. 
+Process - a continuous action of changes taking place.
+Security - a program that provides protection to the data for files.
+Multi Tasking - when a CPU switches quickyly beween application.
+Command Line - a
 GUI
 Voice Input
 Examplers of Operating Systems
