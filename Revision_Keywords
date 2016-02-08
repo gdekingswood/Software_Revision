@@ -1,18 +1,18 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
-Program
-Software
-Application
-Platform
-Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
-Compiler
-Interpreter
+Instructions-a single operation of a processor defined by the processor instruction set.
+Program-the form of a human-readable form of code.
+Software-generic term for organised collections of computer data and instructions.
+Application-generic term for organised collections of computer data and instructions.
+Platform-underlying computer system on which application programs can run.
+Programming Language-a formal constructed language designed to communicate instructions to a machine.
+Machine Code-a computer language that is directly understandable by a computer's CPU.
+Low-level language-a programming language that provides little or no abstraction from a computer's instruction set.
+High-level language-the language that are closer to human languages and further from machine languages.
+Software Engineering-a branch of computer science that deals with the design.
+Interface-A boundary across which two independent systems meet and act on or communicate with each other.
+Compiler-a computer program that transforms source code written in a programming language into another computer language.
+Interpreter-a computer program that directly executes
 Linker
 Debugger
 Operating Systen
