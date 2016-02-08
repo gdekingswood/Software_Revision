@@ -1,39 +1,37 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
-Program
-Software
-Application
-Platform
-Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
-Compiler
-Interpreter
-Linker
+Instructions - a set of commands that a processor can recognise and act upon
+Program - a list of instructions for a computer to execute, that are a stired set 
+Software - programs that run on or off a computer
+Application - software that carries out real world applications  
+Platform - a platform alolows and supports the running of particular applications, hardware and operating system
+Programming Language - a way of writing code that a computer can undersatnd and execute 
+Machine Code - is the code that the computer can understand and execute commands in
+Low-level language -  language that controls each machine operation
+High-level language - where each instruction is converted to machine code, each instructions translates to many instructions 
+Software Engineering - 
+Interface - what users do that have an effect on the software, a boundary between 
+Compiler - translates the code to machine code
+Interpreter - source code or user interface to machine code, translating one instructions at a time
+Linker - 
 Debugger
-Operating Systen
+Operating System - a graphical user interface, that uses WIMP(windows,icons,menus, pointers)                                                           
 Self Booting
 Web Server
-Platform
-Kernel
+Kernel - the lowest level of an operating system that controls the hardware
 Process
-Interface
 Security
-Multi Tasking
-Command Line
-GUI
-Voice Input
+Multi Tasking - when multiple software, commands and hardware managment is running at the same time
+Command Line - a very basic text interface where every command must be entered 
+GUI - Graphical User Interface 
+Voice Input - where a voice is used to command the interface eg Siri
 Examplers of Operating Systems
-Peripheral
+Peripheral - anything outside the CPU
 Driver
 Firmware
 Embedded System
 Client
-Utility Software
+Utility Software - 
 Security Utilities
 Spyware
 Trojan
@@ -41,10 +39,10 @@ Worm
 Firewall
 Degragmenter
 Editor
-Pretty Printer
+Pretty Printer - gives certain commands different colours
 Assemblers
 Assembly Language
-Off the shelf software
+Off the shelf software - software that is avalible for everyone to buy from a shop and not as expensive as custon software
 Custom written software
 Proprietary Software
 Open Source Software
