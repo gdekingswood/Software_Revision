@@ -1,16 +1,16 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
+Instructions - 
 Program
-Software
-Application
-Platform
+Software - Programmes and operating instructions used by a computer
+Application -
+Platform - 
 Programming Language
-Machine Code
-Low-level language
-High-level language
-Software Engineering
-Interface
+Machine Code - the lowest level of code understood by the cpu
+Low-level - language a set of instructions which has very similar archetecture to processing instructions, consitsting of binary
+High-level language - a machine independant language closer to spoken language which is then put through a traslator. 
+Software Engineering - study of software
+Interface - 
 Compiler
 Interpreter
 Linker
@@ -25,7 +25,7 @@ Interface
 Security
 Multi Tasking
 Command Line
-GUI
+GUI - graphical user interface, eg WIMP
 Voice Input
 Examplers of Operating Systems
 Peripheral
@@ -36,12 +36,12 @@ Client
 Utility Software
 Security Utilities
 Spyware
-Trojan
-Worm
-Firewall
+Trojan - a file designed to pass of as another to bypass firewalls and antivirus
+Worm - A file designed to datamine your infomation
+Firewall - A program that filters network traffic and stops unknown networks from connecting to your computer.
 Degragmenter
 Editor
-Pretty Printer
+Pretty Printer - changes code colour highliting its different 
 Assemblers
 Assembly Language
 Off the shelf software
