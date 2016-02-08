@@ -9,26 +9,24 @@ Programming Language
 Machine Code
 Low-level language
 High-level language
-Software Engineering
-Interface
+Software Engineering - the application of math and technology to aid the design and testing of computer programs to optimize their production and support
+Interface - the means by which the user and the computer system interact
 Compiler
 Interpreter
 Linker
 Debugger
-Operating Systen
+Operating Systems - such as iOS and windows are types of system software which are programs that are needed to run the computer
 Self Booting
 Web Server
-Platform
 Kernel
 Process
-Interface
 Security
 Multi Tasking
 Command Line
 GUI
 Voice Input
-Examplers of Operating Systems
-Peripheral
+Examplers of Operating Systems - an example of an operating system is iOS or Windows
+Peripheral - anything outside of the CPU
 Driver
 Firmware
 Embedded System
@@ -44,7 +42,7 @@ Editor
 Pretty Printer
 Assemblers
 Assembly Language
-Off the shelf software
-Custom written software
+Off the shelf software - immediately available and it is sold commercially so cheaper than custom written software
+Custom written software - software written for a specific customer, therefore it is expensive because no one else will ahve the software
 Proprietary Software
 Open Source Software
