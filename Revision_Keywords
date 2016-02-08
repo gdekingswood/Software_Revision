@@ -1,50 +1,49 @@
 Add your definitions to the keywords below.
 Algorithm - a list of step by step instructions, that when followed solve a problem.
-Instructions
+Instructions -
 Program
 Software
-Application
+Application 
 Platform
 Programming Language
 Machine Code
-Low-level language
-High-level language
+Low-level language - languages that the computer understands (assembly language, machine code)
+High-level language - designed to look like normal english (makes it easier for the user to use, but the CPU cannot run directly)
 Software Engineering
-Interface
-Compiler
-Interpreter
-Linker
+Interface - the boundary between the computer and the user
+Compiler - translates programs into machine code that the computer can run
+Interpreter - translates source code line by line
+Linker 
 Debugger
-Operating Systen
+Operating System - software that manages a computer's hardware and provides a user interface
 Self Booting
 Web Server
 Platform
-Kernel
+Kernel 
 Process
-Interface
-Security
-Multi Tasking
+Security 
+Multi Tasking - Background programs run on the computer as well as user's tasks
 Command Line
-GUI
-Voice Input
+GUI - Graphical user interface (WIMP; windows, icons, menus, pointers)
+Voice Input 
 Examplers of Operating Systems
-Peripheral
-Driver
+Peripheral - a device outside of the CPU
+Driver - acts as a go-between so that software can interact with hardware
 Firmware
 Embedded System
 Client
-Utility Software
-Security Utilities
-Spyware
+Utility Software - provides extra functionality that makes the computer system easier to use
+Security Utilities - utlities such as anti-virus software, spyware protection, firewalls and back-up and recovery programs
+Spyware - A software program that can monitor and collect information about the web pages you visit
 Trojan
 Worm
-Firewall
-Degragmenter
+Firewall - A utlity program that filters the information recieved via the internet
+Degragmenter - recognises the hard drive by putting peices of related data back together
 Editor
-Pretty Printer
-Assemblers
-Assembly Language
-Off the shelf software
-Custom written software
-Proprietary Software
-Open Source Software
+Pretty Printer - makes script more read-able in languages such as Python (changes the colour of certain functions)
+Assemblers - an assembler program creates object code by translating mnemonics and snytax
+Assembly Language - a low level programming language that is converted into machine code by an utility program
+Off the shelf software - software that is immediately ready to install with many functions (not specific)
+Custom written software - designed and developed specifically for the user
+Proprietary Software - closed-source software, fails to meet the requirements of open-source software
+Open Source Software - software that can be modified and shared because it's access is publicly accessible
