@@ -13,38 +13,38 @@ Software Engineering
 Interface
 Compiler
 Interpreter
-Linker
-Debugger
-Operating Systen
-Self Booting
-Web Server
-Platform
-Kernel
-Process
-Interface
-Security
-Multi Tasking
-Command Line
-GUI
-Voice Input
-Examplers of Operating Systems
-Peripheral
-Driver
-Firmware
-Embedded System
-Client
-Utility Software
-Security Utilities
-Spyware
-Trojan
-Worm
-Firewall
-Degragmenter
-Editor
-Pretty Printer
-Assemblers
-Assembly Language
-Off the shelf software
-Custom written software
-Proprietary Software
-Open Source Software
+Linker-
+Debugger-
+Operating Systen-
+Self Booting-
+Web Server-
+Platform-
+Kernel-
+Process-
+Interface-
+Security-
+Multi Tasking-
+Command Line-
+GUI-
+Voice Input-
+Examplers of Operating Systems-
+Peripheral-
+Driver-so0ftware that allows the comouter to act with hardware or devices.
+Firmware-programming that was written into the computers' ROM.
+Embedded System-computer system that have specific function within a larger mechanical or electrical system.
+Client-computer hardware or software that was made able to access a service by a server.
+Utility Software-software that helps the computer to analyze,configure,optimize and maintain.
+Security Utilities-keep the file and data in the computer safe.
+Spyware-technology that able to gather information about a person or organisation without their knowledge.
+Trojan-malware that is often disguised as legitimate software.
+Worm-standalone malware that allow computer to replicates itself in order to spread to other computers.
+Firewall-it protects information of a private computer from other network.
+Defragmenter- process that allow the reduce of fragmentation
+Editor-
+Pretty Printer-it gives different colour on different instrution.
+Assemblers-program that enable computer to convect basic instrutions into bits and perform its operation.
+Assembly Language-It is a low-level programming language.
+Off the shelf software- software that you can easily get from shops. 
+Custom written software-custom built for specific reasons and not available in shops.
+Proprietary Software- it is a close source software which means that users are not allow to access the source code.
+Open Source Software-software that allows user to access the source code.
